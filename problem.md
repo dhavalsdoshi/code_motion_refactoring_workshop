@@ -12,3 +12,11 @@ Assumptions:
 
 **System constraints:** 
 - At a time, you can only book 4 or less beds.
+
+###Extension Part 1:
+
+My business is doing well and so I have added more rooms with 8 beds. 
+The new prices are as follows: 
+* For room with 4 beds, price per bed is 20€. If you want to book the whole room, then for each empty bed, you pay 10€ 
+* For room with 8 beds, price per bed is 15€. If you want to book the whole room, then for each empty bed, you pay 5€
+* All the other charges remain the same.
